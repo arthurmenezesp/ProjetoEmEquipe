@@ -1,0 +1,15 @@
+C:\Users\Alunos\Desktop\arthur\ProjetoEmEquipe\ConversorDeTemperatura\bin\Debug\net8.0\ConversorDeTemperatura.exe
+C:\Users\Alunos\Desktop\arthur\ProjetoEmEquipe\ConversorDeTemperatura\bin\Debug\net8.0\ConversorDeTemperatura.deps.json
+C:\Users\Alunos\Desktop\arthur\ProjetoEmEquipe\ConversorDeTemperatura\bin\Debug\net8.0\ConversorDeTemperatura.runtimeconfig.json
+C:\Users\Alunos\Desktop\arthur\ProjetoEmEquipe\ConversorDeTemperatura\bin\Debug\net8.0\ConversorDeTemperatura.dll
+C:\Users\Alunos\Desktop\arthur\ProjetoEmEquipe\ConversorDeTemperatura\bin\Debug\net8.0\ConversorDeTemperatura.pdb
+C:\Users\Alunos\Desktop\arthur\ProjetoEmEquipe\ConversorDeTemperatura\obj\Debug\net8.0\ConversorDeTemperatura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alunos\Desktop\arthur\ProjetoEmEquipe\ConversorDeTemperatura\obj\Debug\net8.0\ConversorDeTemperatura.AssemblyInfoInputs.cache
+C:\Users\Alunos\Desktop\arthur\ProjetoEmEquipe\ConversorDeTemperatura\obj\Debug\net8.0\ConversorDeTemperatura.AssemblyInfo.cs
+C:\Users\Alunos\Desktop\arthur\ProjetoEmEquipe\ConversorDeTemperatura\obj\Debug\net8.0\ConversorDeTemperatura.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Desktop\arthur\ProjetoEmEquipe\ConversorDeTemperatura\obj\Debug\net8.0\ConversorDeTemperatura.sourcelink.json
+C:\Users\Alunos\Desktop\arthur\ProjetoEmEquipe\ConversorDeTemperatura\obj\Debug\net8.0\ConversorDeTemperatura.dll
+C:\Users\Alunos\Desktop\arthur\ProjetoEmEquipe\ConversorDeTemperatura\obj\Debug\net8.0\refint\ConversorDeTemperatura.dll
+C:\Users\Alunos\Desktop\arthur\ProjetoEmEquipe\ConversorDeTemperatura\obj\Debug\net8.0\ConversorDeTemperatura.pdb
+C:\Users\Alunos\Desktop\arthur\ProjetoEmEquipe\ConversorDeTemperatura\obj\Debug\net8.0\ConversorDeTemperatura.genruntimeconfig.cache
+C:\Users\Alunos\Desktop\arthur\ProjetoEmEquipe\ConversorDeTemperatura\obj\Debug\net8.0\ref\ConversorDeTemperatura.dll
